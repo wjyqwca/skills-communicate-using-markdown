@@ -1,5 +1,5 @@
 # Daily Learning
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="center">
 
 ## Morning Planning
 - [x] Check out the [github blog](https://github.blog/) for topic ideas.
