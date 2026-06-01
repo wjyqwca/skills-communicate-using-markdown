@@ -9,6 +9,7 @@
 ## Review
 ```bashx
 git clone https://github.com/skills/communicate-using-markdown
+hello,github!!!
 ```
 ``` js
 var myVar = "Hello, world!";
@@ -22,3 +23,8 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 1. Step 1
 3. Step 2
 1. Step 3
+
+----
+lalalalla
+----
+[[baga]](https://skills.github.com/#first-day-on-github)
